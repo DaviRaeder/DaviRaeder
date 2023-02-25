@@ -23,7 +23,6 @@ Sejá bem vindo(a) ao  perfil do DaviRaeder
 <div align="center">
   
   
-  ![Snake animation](https://github.com/daviraeder/daviraeder/blob/output/github-contribution-grid-snake.svg)
 </div>
  
 
