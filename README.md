@@ -1,4 +1,4 @@
-Sejá bem vindo(a) ao  perfil do DaviRaeder
+Seja bem vindo(a) ao perfil de DaviZZolla
 
  <div>
   <a href="https://github.com/DaviRaeder">
